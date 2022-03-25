@@ -8,11 +8,11 @@ import { AppComponent } from './app.component';
 @NgModule({
   declarations: [
     AppComponent,
-    CounterComponent
+ //   CounterComponent
   ],
   imports: [
     BrowserModule,
-    //AppRoutingModule
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
