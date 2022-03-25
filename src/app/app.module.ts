@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { CounterComponent } from './counter.component.ts';
+import { CounterComponent } from './counter.component';
 
 @NgModule({
   declarations: [
