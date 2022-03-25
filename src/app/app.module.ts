@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { CounterComponent } from './counter.component';
+//import { CounterComponent } from './counter.component';
 
 @NgModule({
   declarations: [
@@ -12,7 +12,7 @@ import { CounterComponent } from './counter.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    //AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
