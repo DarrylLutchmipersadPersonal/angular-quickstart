@@ -7,13 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-quickstart';
-  message: string = 'Hello world!';
-  count: number = 0;
-  increment() {
-    this.count++;
-  }
-  decrement() {
-    this.count--;
-  }
 }
 
